@@ -57,7 +57,7 @@ See our docs page for more info on this error: https://gatsby.dev/debug-html
     node_modules/@google-cloud/firestore/build/src/validate.js:19:16
 ```
 
-# fix it:
+# fix it (by changing stuff with typesaurus, not gatsby. I don't know how to fix it with gatsby):
 Change /node_modules/typesaurus/adaptor/node.js to:
 
 ```javascript
