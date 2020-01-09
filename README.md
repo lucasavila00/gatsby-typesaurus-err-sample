@@ -9,7 +9,11 @@
 > $ yarn build
 
 @zeit/ncc had the same error and fixed it on their behalf instead of "upstreaming" to webpack:
+
 https://github.com/zeit/ncc/issues/317
+
+https://github.com/zeit/webpack-asset-relocator-loader/pull/12
+
 ```
  ERROR #95313 
 
