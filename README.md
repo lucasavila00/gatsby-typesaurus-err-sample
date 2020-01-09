@@ -1,6 +1,8 @@
 # check that it works at runtime:
 > configure your firebase credential at /gatsby-config.js
 
+> the code that uses typesaurus is at /src/pages/index.tsx
+
 > $ yarn develop
 
 # see it fail to build:
