@@ -1,5 +1,6 @@
 # check that it works at runtime:
 > configure your firebase credential at /gatsby-config.js
+
 > $ yarn develop
 
 # see it fail to build:
